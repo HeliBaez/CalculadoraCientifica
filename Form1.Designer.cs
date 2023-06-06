@@ -323,7 +323,7 @@
             this.MASyMenos.Name = "MASyMenos";
             this.MASyMenos.Size = new System.Drawing.Size(90, 67);
             this.MASyMenos.TabIndex = 22;
-            this.MASyMenos.Text = "+/-";
+            this.MASyMenos.Text = "^";
             this.MASyMenos.UseVisualStyleBackColor = true;
             this.MASyMenos.Click += new System.EventHandler(this.button4_Click_1);
             // 
