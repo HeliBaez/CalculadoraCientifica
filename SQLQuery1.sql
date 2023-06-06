@@ -1,0 +1,1 @@
+create table Calculo(ID int, Operacion varchar(900), Resultado decimal(18,2))
