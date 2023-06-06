@@ -57,12 +57,15 @@
             // 
             // textBox1
             // 
-            this.textBox1.BackColor = System.Drawing.Color.Ivory;
+            this.textBox1.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.textBox1.Font = new System.Drawing.Font("Ink Free", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(37, 42);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(452, 60);
             this.textBox1.TabIndex = 0;
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // menuStrip1
@@ -293,7 +296,7 @@
             // 
             // IGUAL
             // 
-            this.IGUAL.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.IGUAL.BackColor = System.Drawing.Color.PowderBlue;
             this.IGUAL.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.IGUAL.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.IGUAL.Location = new System.Drawing.Point(284, 595);
