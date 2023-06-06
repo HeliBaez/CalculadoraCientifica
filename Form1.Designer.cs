@@ -57,7 +57,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.BackColor = System.Drawing.SystemColors.Info;
+            this.textBox1.BackColor = System.Drawing.Color.Ivory;
             this.textBox1.Location = new System.Drawing.Point(37, 42);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
@@ -76,255 +76,310 @@
             // 
             // PORCIENTO
             // 
+            this.PORCIENTO.BackColor = System.Drawing.SystemColors.ControlLight;
             this.PORCIENTO.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PORCIENTO.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.PORCIENTO.Location = new System.Drawing.Point(37, 142);
             this.PORCIENTO.Name = "PORCIENTO";
             this.PORCIENTO.Size = new System.Drawing.Size(90, 67);
             this.PORCIENTO.TabIndex = 2;
             this.PORCIENTO.Text = "%";
-            this.PORCIENTO.UseVisualStyleBackColor = true;
+            this.PORCIENTO.UseVisualStyleBackColor = false;
             this.PORCIENTO.Click += new System.EventHandler(this.button1_Click);
             // 
             // C
             // 
+            this.C.BackColor = System.Drawing.SystemColors.ControlLight;
             this.C.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.C.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.C.Location = new System.Drawing.Point(166, 142);
             this.C.Name = "C";
             this.C.Size = new System.Drawing.Size(90, 67);
             this.C.TabIndex = 3;
             this.C.Text = "C";
-            this.C.UseVisualStyleBackColor = true;
+            this.C.UseVisualStyleBackColor = false;
             this.C.Click += new System.EventHandler(this.button2_Click);
             // 
             // ELEVADO
             // 
+            this.ELEVADO.BackColor = System.Drawing.SystemColors.ControlLight;
             this.ELEVADO.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ELEVADO.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.ELEVADO.Location = new System.Drawing.Point(284, 142);
             this.ELEVADO.Name = "ELEVADO";
             this.ELEVADO.Size = new System.Drawing.Size(90, 67);
             this.ELEVADO.TabIndex = 4;
             this.ELEVADO.Text = "x2";
-            this.ELEVADO.UseVisualStyleBackColor = true;
+            this.ELEVADO.UseVisualStyleBackColor = false;
             this.ELEVADO.Click += new System.EventHandler(this.button3_Click);
             // 
             // DELTE
             // 
+            this.DELTE.BackColor = System.Drawing.SystemColors.ControlLight;
             this.DELTE.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DELTE.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.DELTE.Location = new System.Drawing.Point(399, 142);
             this.DELTE.Name = "DELTE";
             this.DELTE.Size = new System.Drawing.Size(90, 67);
             this.DELTE.TabIndex = 5;
             this.DELTE.Text = "DELETE";
-            this.DELTE.UseVisualStyleBackColor = true;
+            this.DELTE.UseVisualStyleBackColor = false;
             this.DELTE.Click += new System.EventHandler(this.button4_Click);
             // 
             // MULTIPLICAR
             // 
+            this.MULTIPLICAR.BackColor = System.Drawing.SystemColors.ControlLight;
             this.MULTIPLICAR.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.MULTIPLICAR.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.MULTIPLICAR.Location = new System.Drawing.Point(399, 307);
             this.MULTIPLICAR.Name = "MULTIPLICAR";
             this.MULTIPLICAR.Size = new System.Drawing.Size(90, 67);
             this.MULTIPLICAR.TabIndex = 9;
             this.MULTIPLICAR.Text = "*";
-            this.MULTIPLICAR.UseVisualStyleBackColor = true;
+            this.MULTIPLICAR.UseVisualStyleBackColor = false;
             this.MULTIPLICAR.Click += new System.EventHandler(this.button5_Click);
             // 
             // NUEVE
             // 
+            this.NUEVE.BackColor = System.Drawing.SystemColors.ControlLight;
             this.NUEVE.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NUEVE.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.NUEVE.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.NUEVE.Location = new System.Drawing.Point(284, 307);
             this.NUEVE.Name = "NUEVE";
             this.NUEVE.Size = new System.Drawing.Size(90, 67);
             this.NUEVE.TabIndex = 8;
             this.NUEVE.Text = "9";
-            this.NUEVE.UseVisualStyleBackColor = true;
+            this.NUEVE.UseVisualStyleBackColor = false;
             this.NUEVE.Click += new System.EventHandler(this.button6_Click);
             // 
             // OCHO
             // 
+            this.OCHO.BackColor = System.Drawing.SystemColors.ControlLight;
             this.OCHO.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.OCHO.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.OCHO.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.OCHO.Location = new System.Drawing.Point(166, 307);
             this.OCHO.Name = "OCHO";
             this.OCHO.Size = new System.Drawing.Size(90, 67);
             this.OCHO.TabIndex = 7;
             this.OCHO.Text = "8";
-            this.OCHO.UseVisualStyleBackColor = true;
+            this.OCHO.UseVisualStyleBackColor = false;
             this.OCHO.Click += new System.EventHandler(this.button7_Click);
             // 
             // SIETE
             // 
+            this.SIETE.BackColor = System.Drawing.SystemColors.ControlLight;
             this.SIETE.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SIETE.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.SIETE.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.SIETE.Location = new System.Drawing.Point(37, 307);
             this.SIETE.Name = "SIETE";
             this.SIETE.Size = new System.Drawing.Size(90, 67);
             this.SIETE.TabIndex = 6;
             this.SIETE.Text = "7";
-            this.SIETE.UseVisualStyleBackColor = true;
+            this.SIETE.UseVisualStyleBackColor = false;
             this.SIETE.Click += new System.EventHandler(this.button8_Click);
             // 
             // RESTA
             // 
+            this.RESTA.BackColor = System.Drawing.SystemColors.ControlLight;
             this.RESTA.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.RESTA.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.RESTA.Location = new System.Drawing.Point(399, 390);
             this.RESTA.Name = "RESTA";
             this.RESTA.Size = new System.Drawing.Size(90, 67);
             this.RESTA.TabIndex = 13;
             this.RESTA.Text = "-";
-            this.RESTA.UseVisualStyleBackColor = true;
+            this.RESTA.UseVisualStyleBackColor = false;
             this.RESTA.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
+            this.button10.BackColor = System.Drawing.SystemColors.ControlLight;
             this.button10.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button10.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button10.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button10.Location = new System.Drawing.Point(284, 390);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(90, 67);
             this.button10.TabIndex = 12;
             this.button10.Text = "6";
-            this.button10.UseVisualStyleBackColor = true;
+            this.button10.UseVisualStyleBackColor = false;
             this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // CINCO
             // 
+            this.CINCO.BackColor = System.Drawing.SystemColors.ControlLight;
             this.CINCO.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CINCO.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.CINCO.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.CINCO.Location = new System.Drawing.Point(166, 390);
             this.CINCO.Name = "CINCO";
             this.CINCO.Size = new System.Drawing.Size(90, 67);
             this.CINCO.TabIndex = 11;
             this.CINCO.Text = "5";
-            this.CINCO.UseVisualStyleBackColor = true;
+            this.CINCO.UseVisualStyleBackColor = false;
             this.CINCO.Click += new System.EventHandler(this.button11_Click);
             // 
             // CUATRO
             // 
+            this.CUATRO.BackColor = System.Drawing.SystemColors.ControlLight;
             this.CUATRO.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CUATRO.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.CUATRO.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.CUATRO.Location = new System.Drawing.Point(37, 390);
             this.CUATRO.Name = "CUATRO";
             this.CUATRO.Size = new System.Drawing.Size(90, 67);
             this.CUATRO.TabIndex = 10;
             this.CUATRO.Text = "4";
-            this.CUATRO.UseVisualStyleBackColor = true;
+            this.CUATRO.UseVisualStyleBackColor = false;
             this.CUATRO.Click += new System.EventHandler(this.button12_Click);
             // 
             // MAS
             // 
+            this.MAS.BackColor = System.Drawing.SystemColors.ControlLight;
             this.MAS.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.MAS.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.MAS.Location = new System.Drawing.Point(399, 491);
             this.MAS.Name = "MAS";
             this.MAS.Size = new System.Drawing.Size(90, 67);
             this.MAS.TabIndex = 17;
             this.MAS.Text = "+";
-            this.MAS.UseVisualStyleBackColor = true;
+            this.MAS.UseVisualStyleBackColor = false;
             this.MAS.Click += new System.EventHandler(this.button13_Click);
             // 
             // button14
             // 
+            this.button14.BackColor = System.Drawing.SystemColors.ControlLight;
             this.button14.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button14.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button14.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button14.Location = new System.Drawing.Point(284, 491);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(90, 67);
             this.button14.TabIndex = 16;
             this.button14.Text = "3";
-            this.button14.UseVisualStyleBackColor = true;
+            this.button14.UseVisualStyleBackColor = false;
             this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // DOS
             // 
+            this.DOS.BackColor = System.Drawing.SystemColors.ControlLight;
             this.DOS.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DOS.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.DOS.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.DOS.Location = new System.Drawing.Point(166, 491);
             this.DOS.Name = "DOS";
             this.DOS.Size = new System.Drawing.Size(90, 67);
             this.DOS.TabIndex = 15;
             this.DOS.Text = "2";
-            this.DOS.UseVisualStyleBackColor = true;
+            this.DOS.UseVisualStyleBackColor = false;
             this.DOS.Click += new System.EventHandler(this.button15_Click);
             // 
             // UNO
             // 
+            this.UNO.BackColor = System.Drawing.SystemColors.ControlLight;
             this.UNO.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UNO.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.UNO.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.UNO.Location = new System.Drawing.Point(37, 491);
             this.UNO.Name = "UNO";
             this.UNO.Size = new System.Drawing.Size(90, 67);
             this.UNO.TabIndex = 14;
             this.UNO.Text = "1";
-            this.UNO.UseVisualStyleBackColor = true;
+            this.UNO.UseVisualStyleBackColor = false;
             this.UNO.Click += new System.EventHandler(this.button16_Click);
             // 
             // IGUAL
             // 
+            this.IGUAL.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.IGUAL.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.IGUAL.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.IGUAL.Location = new System.Drawing.Point(284, 595);
             this.IGUAL.Name = "IGUAL";
             this.IGUAL.Size = new System.Drawing.Size(205, 67);
             this.IGUAL.TabIndex = 21;
             this.IGUAL.Text = "=";
-            this.IGUAL.UseVisualStyleBackColor = true;
+            this.IGUAL.UseVisualStyleBackColor = false;
             this.IGUAL.Click += new System.EventHandler(this.button17_Click);
             // 
             // CERO
             // 
+            this.CERO.BackColor = System.Drawing.SystemColors.ControlLight;
             this.CERO.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CERO.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.CERO.Location = new System.Drawing.Point(166, 595);
             this.CERO.Name = "CERO";
             this.CERO.Size = new System.Drawing.Size(90, 67);
             this.CERO.TabIndex = 19;
             this.CERO.Text = "0";
-            this.CERO.UseVisualStyleBackColor = true;
+            this.CERO.UseVisualStyleBackColor = false;
             this.CERO.Click += new System.EventHandler(this.button19_Click);
             // 
             // PUNTO
             // 
+            this.PUNTO.BackColor = System.Drawing.SystemColors.ControlLight;
             this.PUNTO.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PUNTO.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.PUNTO.Location = new System.Drawing.Point(37, 595);
             this.PUNTO.Name = "PUNTO";
             this.PUNTO.Size = new System.Drawing.Size(90, 67);
             this.PUNTO.TabIndex = 18;
             this.PUNTO.Text = ".";
-            this.PUNTO.UseVisualStyleBackColor = true;
+            this.PUNTO.UseVisualStyleBackColor = false;
             this.PUNTO.Click += new System.EventHandler(this.button20_Click);
             // 
             // RAIZ
             // 
+            this.RAIZ.BackColor = System.Drawing.SystemColors.ControlLight;
             this.RAIZ.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.RAIZ.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.RAIZ.Location = new System.Drawing.Point(399, 220);
             this.RAIZ.Name = "RAIZ";
             this.RAIZ.Size = new System.Drawing.Size(90, 67);
             this.RAIZ.TabIndex = 25;
             this.RAIZ.Text = "√";
-            this.RAIZ.UseVisualStyleBackColor = true;
+            this.RAIZ.UseVisualStyleBackColor = false;
             this.RAIZ.Click += new System.EventHandler(this.RAIZ_Click);
             // 
             // DIVICION
             // 
+            this.DIVICION.BackColor = System.Drawing.SystemColors.ControlLight;
             this.DIVICION.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DIVICION.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.DIVICION.Location = new System.Drawing.Point(284, 220);
             this.DIVICION.Name = "DIVICION";
             this.DIVICION.Size = new System.Drawing.Size(90, 67);
             this.DIVICION.TabIndex = 24;
             this.DIVICION.Text = "/";
-            this.DIVICION.UseVisualStyleBackColor = true;
+            this.DIVICION.UseVisualStyleBackColor = false;
             this.DIVICION.Click += new System.EventHandler(this.DIVICION_Click);
             // 
             // CE
             // 
+            this.CE.BackColor = System.Drawing.SystemColors.ControlLight;
             this.CE.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CE.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.CE.Location = new System.Drawing.Point(166, 220);
             this.CE.Name = "CE";
             this.CE.Size = new System.Drawing.Size(90, 67);
             this.CE.TabIndex = 23;
             this.CE.Text = "CE";
-            this.CE.UseVisualStyleBackColor = true;
+            this.CE.UseVisualStyleBackColor = false;
             this.CE.Click += new System.EventHandler(this.CE_Click);
             // 
             // MASyMenos
             // 
+            this.MASyMenos.BackColor = System.Drawing.SystemColors.ControlLight;
             this.MASyMenos.Font = new System.Drawing.Font("Lucida Sans Unicode", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.MASyMenos.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.MASyMenos.Location = new System.Drawing.Point(37, 220);
             this.MASyMenos.Name = "MASyMenos";
             this.MASyMenos.Size = new System.Drawing.Size(90, 67);
             this.MASyMenos.TabIndex = 22;
             this.MASyMenos.Text = "^";
-            this.MASyMenos.UseVisualStyleBackColor = true;
+            this.MASyMenos.UseVisualStyleBackColor = false;
             this.MASyMenos.Click += new System.EventHandler(this.button4_Click_1);
             // 
             // Form1

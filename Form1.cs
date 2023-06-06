@@ -145,7 +145,7 @@ namespace Calculadora_Cientifica
             switch (operador)
             {
                 case "+":
-                    operacionSuma = objSuma.sumas((aux1,aux2));
+                    operacionSuma = objSuma.sumas(aux1,aux2);
                     textBox1.Text = operacionSuma.ToString(); 
                     break;
             }
