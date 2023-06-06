@@ -9,3 +9,25 @@ C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica
 C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\bin\Debug\Calculadora Cientifica.pdb
 C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora Cientifica.exe
 C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora Cientifica.pdb
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\bin\Debug\Calculadora Cientifica.exe.config
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\bin\Debug\Calculadora Cientifica.exe
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\bin\Debug\Calculadora Cientifica.pdb
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.csproj.AssemblyReference.cache
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\obj\Debug\Calculadora_Cientifica.Form1.resources
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\obj\Debug\Calculadora_Cientifica.Properties.Resources.resources
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.csproj.GenerateResource.cache
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.exe
+C:\Users\Bryan\Downloads\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.pdb
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\bin\Debug\Calculadora Cientifica.exe.config
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\bin\Debug\Calculadora Cientifica.exe
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\bin\Debug\Calculadora Cientifica.pdb
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.csproj.AssemblyReference.cache
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\obj\Debug\Calculadora_Cientifica.Form1.resources
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\obj\Debug\Calculadora_Cientifica.Properties.Resources.resources
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.csproj.GenerateResource.cache
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.exe
+C:\Users\Bryan\Desktop\CalculadoraCientifica-main\obj\Debug\Calculadora Cientifica.pdb

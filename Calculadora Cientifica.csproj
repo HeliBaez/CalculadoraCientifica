@@ -46,12 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clases\claseDivicion.cs" />
-    <Compile Include="Clases\claseMultiplicacion.cs" />
-    <Compile Include="Clases\clasePorciento.cs" />
-    <Compile Include="Clases\clasePotencia.cs" />
-    <Compile Include="Clases\claseRaiz.cs" />
-    <Compile Include="Clases\ClaseResta.cs" />
     <Compile Include="Clases\claseSuma.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
