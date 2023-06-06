@@ -1,0 +1,22 @@
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora Cientifica.csproj.AssemblyReference.cache
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora Cientifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora_Cientifica.Form1.resources
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora_Cientifica.Properties.Resources.resources
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora Cientifica.csproj.GenerateResource.cache
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora Cientifica.csproj.CoreCompileInputs.cache
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\bin\Debug\Calculadora Cientifica.exe.config
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\bin\Debug\Calculadora Cientifica.exe
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\bin\Debug\Calculadora Cientifica.pdb
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora Cientifica.exe
+C:\Users\Heli Antonio Baez\OneDrive\Escritorio\Cientifica\Calculadora Cientifica\Calculadora Cientifica\obj\Debug\Calculadora Cientifica.pdb
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\obj\Debug\Calculadora Cientifica.csproj.AssemblyReference.cache
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\obj\Debug\Calculadora Cientifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\obj\Debug\Calculadora_Cientifica.Form1.resources
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\obj\Debug\Calculadora_Cientifica.Properties.Resources.resources
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\obj\Debug\Calculadora Cientifica.csproj.GenerateResource.cache
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\obj\Debug\Calculadora Cientifica.csproj.CoreCompileInputs.cache
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\obj\Debug\Calculadora Cientifica.exe
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\obj\Debug\Calculadora Cientifica.pdb
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\bin\Debug\Calculadora Cientifica.exe.config
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\bin\Debug\Calculadora Cientifica.exe
+C:\Users\traider\Downloads\CalculadoraCientifica-51812e527756cb7a52a29e0d9843a996ebb8c19a\bin\Debug\Calculadora Cientifica.pdb
